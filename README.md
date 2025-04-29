@@ -38,7 +38,7 @@ Aqui você encontrará projetos que exploram desde **gamificação** e **simulad
 
 ## 📫 Contato
 
-- [LinkedIn]: ([https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/gabriel-machado-carrara-pimentel-590753239/))  
+- [LinkedIn]([https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/gabriel-machado-carrara-pimentel-590753239/))  
 - Email: gabrielmacapi8@gmail.com
 
 Sinta-se à vontade para explorar os projetos, clonar, sugerir melhorias ou apenas trocar ideias!
