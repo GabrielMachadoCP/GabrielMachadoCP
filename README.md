@@ -10,8 +10,8 @@
 ## 📈 Estatísticas
 
 <a href="https://github.com/gabrielmachadop">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielmachadop&show_icons=true&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmachadop&layout=donut&langs_count=6&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielmachadocp&show_icons=true&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmachadocp&layout=donut&langs_count=6&theme=dracula"/>
 </a>
 
 ---
@@ -67,7 +67,7 @@ Aqui você encontrará projetos que exploram desde **gamificação** e **simulad
 ## 📫 Contato
 
 - [LinkedIn](https://www.linkedin.com/in/gabriel-machado-carrara-pimentel-590753239/)
-- ✉️ Email: gabrielmacapi8@gmail.com
+- [✉ Email] (gabrielmacapi8@gmail.com)
 
 Sinta-se à vontade para explorar os projetos, clonar, sugerir melhorias ou apenas trocar ideias!
 
