@@ -10,8 +10,8 @@
 ## 📈 Estatísticas
 
 <a href="https://github.com/gabrielmachadocp">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielmachadocp&show_icons=true&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmachadocp&layout=donut&langs_count=6&theme=dracula&hide=Jupyter%20Notebook"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=gabrielmachadocp&show_icons=true&theme=dracula"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmachadocp&layout=donut&langs_count=6&theme=dracula&hide=Jupyter%20Notebook"/>
 </a>
 
 ---
